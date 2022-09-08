@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1SyntaxCSharp", "1SyntaxCSharp\1SyntaxCSharp.csproj", "{45B68B74-C1DD-4F43-8635-88186512EF0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2AusgabeEingabe", "2AusgabeEingabe\2AusgabeEingabe.csproj", "{C61EFEE7-4116-4156-8D1C-6B8F7974403F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2AusgabeEingabe", "2AusgabeEingabe\2AusgabeEingabe.csproj", "{C61EFEE7-4116-4156-8D1C-6B8F7974403F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DatentypenKonventierung", "3DatentypenKonventierung\3DatentypenKonventierung.csproj", "{14C09BFC-86E9-45F8-A8BD-B7943FBB5645}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C61EFEE7-4116-4156-8D1C-6B8F7974403F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C61EFEE7-4116-4156-8D1C-6B8F7974403F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C61EFEE7-4116-4156-8D1C-6B8F7974403F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C09BFC-86E9-45F8-A8BD-B7943FBB5645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C09BFC-86E9-45F8-A8BD-B7943FBB5645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C09BFC-86E9-45F8-A8BD-B7943FBB5645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C09BFC-86E9-45F8-A8BD-B7943FBB5645}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
