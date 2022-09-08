@@ -22,3 +22,5 @@ Console.WriteLine(klasse);
 //A3
 
 Console.WriteLine($"{vorname} ist {alter} Jahre alt und besucht die Klasse {klasse} des Georg-Simon-Ohm Berufskolleg");
+
+
